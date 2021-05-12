@@ -92,7 +92,7 @@ function enviar() {
 }
 
 function enviarWs() {
-    fone = '5561994370463';
+    fone = '5561994370634';
     nome = document.getElementById("nome").value;
     endereco = document.getElementById("endereco").value;
     (endereco != '') ? pedido += `<br>endereco: ${endereco}`:'';
